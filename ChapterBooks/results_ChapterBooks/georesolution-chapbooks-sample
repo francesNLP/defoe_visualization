@@ -1,0 +1,881 @@
+1826:
+- archive: /Users/rosafilgueira/EPCC/TDM/CDS/defoe-code/defoe/chapbooks-sample/104184105
+  edition: null
+  georesolution_page:
+    ABERDEEN-1:
+      in-cc: GB
+      lat: '57.15581542635205'
+      long: '-2.189135946789114'
+      pop: '183790'
+      snippet: "life to our King , ABERDEEN ; J\u2019ft TNIEJ ) SY "
+      type: civila
+  lang_model: en_core_web_lg
+  page_filename: alto/107134030.34.xml
+  text_unit id: Page1
+  title: song in praise of the highland lads
+- archive: /Users/rosafilgueira/EPCC/TDM/CDS/defoe-code/defoe/chapbooks-sample/104184105
+  edition: null
+  georesolution_page: {}
+  lang_model: en_core_web_lg
+  page_filename: alto/107134042.34.xml
+  text_unit id: Page2
+  title: song in praise of the highland lads
+- archive: /Users/rosafilgueira/EPCC/TDM/CDS/defoe-code/defoe/chapbooks-sample/104184105
+  edition: null
+  georesolution_page: {}
+  lang_model: en_core_web_lg
+  page_filename: alto/107134054.34.xml
+  text_unit id: Page3
+  title: song in praise of the highland lads
+- archive: /Users/rosafilgueira/EPCC/TDM/CDS/defoe-code/defoe/chapbooks-sample/104184105
+  edition: null
+  georesolution_page:
+    Mount-2:
+      in-cc: ''
+      lat: '51.60206321410553'
+      long: '-2.730540808893425'
+      pop: ''
+      snippet: 'Burn no more Bothies in Mount Sack , Case the mist '
+      type: ppl
+    Sack-3:
+      in-cc: ''
+      lat: '51.21760034129579'
+      long: '-2.151719256134133'
+      pop: ''
+      snippet: 'no more Bothies in Mount Sack , Case the mist come '
+      type: mtn
+    bield-1:
+      in-cc: ''
+      lat: '52.4585767008825'
+      long: '-0.5517685164556149'
+      pop: ''
+      snippet: 'to run and seek for bield . And leave them masters '
+      type: fac
+  lang_model: en_core_web_lg
+  page_filename: alto/107134066.34.xml
+  text_unit id: Page4
+  title: song in praise of the highland lads
+- archive: /Users/rosafilgueira/EPCC/TDM/CDS/defoe-code/defoe/chapbooks-sample/104184105
+  edition: null
+  georesolution_page:
+    glen-6:
+      in-cc: ''
+      lat: '55.33475637101743'
+      long: '-3.986264167260694'
+      pop: ''
+      snippet: 'them run from hill and glen . Just as a fox '
+      type: water
+    highland-1:
+      in-cc: ''
+      lat: '57.58115491884349'
+      long: '-4.958935288234323'
+      pop: ''
+      snippet: "\u2019ll meet you in the highland dress . Among Noghty glens "
+      type: civila
+    hill-5:
+      in-cc: ''
+      lat: '55.27267211291878'
+      long: '-4.118628093624643'
+      pop: ''
+      snippet: 'They made them run from hill and glen . Just as '
+      type: water
+  lang_model: en_core_web_lg
+  page_filename: alto/107134078.34.xml
+  text_unit id: Page5
+  title: song in praise of the highland lads
+- archive: /Users/rosafilgueira/EPCC/TDM/CDS/defoe-code/defoe/chapbooks-sample/104184105
+  edition: null
+  georesolution_page:
+    Scotland-1:
+      in-cc: GB
+      lat: '56.0000000'
+      long: '-4.0000000'
+      pop: '5000000'
+      snippet: "enemies all subdue . Among Scotland \u2019s glens in the morning "
+      type: civila
+    Scotland-2:
+      in-cc: GB
+      lat: '56.0000000'
+      long: '-4.0000000'
+      pop: '5000000'
+      snippet: "w ould despise . Among Scotland \u2019s glens in the morning "
+      type: civila
+    Scotland-3:
+      in-cc: GB
+      lat: '56.0000000'
+      long: '-4.0000000'
+      pop: '5000000'
+      snippet: "enemies to yield . Among Scotland \u2019s glens in the morning "
+      type: civila
+    Scotland-5:
+      in-cc: GB
+      lat: '56.0000000'
+      long: '-4.0000000'
+      pop: '5000000'
+      snippet: "to their will , Among Scotland \u2019s glens in the morning "
+      type: civila
+  lang_model: en_core_web_lg
+  page_filename: alto/107134090.34.xml
+  text_unit id: Page6
+  title: song in praise of the highland lads
+- archive: /Users/rosafilgueira/EPCC/TDM/CDS/defoe-code/defoe/chapbooks-sample/104184105
+  edition: null
+  georesolution_page:
+    Fife-7:
+      in-cc: ''
+      lat: '56.22847326480971'
+      long: '-3.14927593311005'
+      pop: ''
+      snippet: '7 . Long Earls of Fife they did remain . And '
+      type: civila
+    Isles-1:
+      in-cc: ''
+      lat: '53.82447123884916'
+      long: '-2.267331170711214'
+      pop: ''
+      snippet: "cheer . Among Briton \u2019s Isles in the morning . PART "
+      type: rgn
+    Scotland-2:
+      in-cc: GB
+      lat: '56.0000000'
+      long: '-4.0000000'
+      pop: '5000000'
+      snippet: "freely do depend , Among Scotland \u2019s glens in the morning "
+      type: civila
+    Scotland-3:
+      in-cc: GB
+      lat: '56.0000000'
+      long: '-4.0000000'
+      pop: '5000000'
+      snippet: "him we find . Among Scotland \u2019s glens in the morning "
+      type: civila
+    Scotland-4:
+      in-cc: GB
+      lat: '56.0000000'
+      long: '-4.0000000'
+      pop: '5000000'
+      snippet: "an and a \u2019 Among Scotland \u2019s glens in the morning "
+      type: civila
+    Scotland-5:
+      in-cc: GB
+      lat: '56.0000000'
+      long: '-4.0000000'
+      pop: '5000000'
+      snippet: "at a stand . Among Scotland \u2019s glens in the morning "
+      type: civila
+    Scotland-6:
+      in-cc: GB
+      lat: '56.0000000'
+      long: '-4.0000000'
+      pop: '5000000'
+      snippet: "foes did face . Among Scotland \u2019s glens in the morning "
+      type: civila
+    Scotland-8:
+      in-cc: GB
+      lat: '56.0000000'
+      long: '-4.0000000'
+      pop: '5000000'
+      snippet: "all hi$ train . From Scotland \u2019s throne in the morning "
+      type: civila
+  lang_model: en_core_web_lg
+  page_filename: alto/107134102.34.xml
+  text_unit id: Page7
+  title: song in praise of the highland lads
+- archive: /Users/rosafilgueira/EPCC/TDM/CDS/defoe-code/defoe/chapbooks-sample/104184105
+  edition: null
+  georesolution_page:
+    Britain-6:
+      in-cc: ''
+      lat: '52.18862580436251'
+      long: '-1.833199368773203'
+      pop: ''
+      snippet: "gives the command , May Britain \u2019s enemies never stand . "
+      type: ppl
+    Scotland-1:
+      in-cc: GB
+      lat: '56.0000000'
+      long: '-4.0000000'
+      pop: '5000000'
+      snippet: "righteous hei ? , Among Scotland \u2019s glens in the morning "
+      type: civila
+    Scotland-3:
+      in-cc: GB
+      lat: '56.0000000'
+      long: '-4.0000000'
+      pop: '5000000'
+      snippet: "does yet remain , Antorig Scotland \u2019s glens in the morning "
+      type: civila
+    Scotland-7:
+      in-cc: GB
+      lat: '56.0000000'
+      long: '-4.0000000'
+      pop: '5000000'
+      snippet: "sea and land . From Scotland \u2019s glens in the morning "
+      type: civila
+    Spain-5:
+      in-cc: ES
+      lat: '40.0000000'
+      long: '-4.0000000'
+      pop: '40341462'
+      snippet: ', On the plains of Spain in tile morfting . 15 '
+      type: country
+  lang_model: en_core_web_lg
+  page_filename: alto/107134114.34.xml
+  text_unit id: Page8
+  title: song in praise of the highland lads
+1835:
+- archive: /Users/rosafilgueira/EPCC/TDM/CDS/defoe-code/defoe/chapbooks-sample/104184106
+  edition: null
+  georesolution_page: {}
+  lang_model: en_core_web_lg
+  page_filename: alto/107133934.34.xml
+  text_unit id: Page1
+  title: Two new songs viz
+- archive: /Users/rosafilgueira/EPCC/TDM/CDS/defoe-code/defoe/chapbooks-sample/104184106
+  edition: null
+  georesolution_page:
+    street-2:
+      in-cc: ''
+      lat: '52.76844157727287'
+      long: '1.430219043484669'
+      pop: ''
+      snippet: 'Fulton the poet in Ladylone street . Who seized my hand '
+      type: ppl
+  lang_model: en_core_web_lg
+  page_filename: alto/107133946.34.xml
+  text_unit id: Page2
+  title: Two new songs viz
+- archive: /Users/rosafilgueira/EPCC/TDM/CDS/defoe-code/defoe/chapbooks-sample/104184106
+  edition: null
+  georesolution_page:
+    ny-1:
+      in-cc: ''
+      lat: '54.83987366634093'
+      long: '-2.788740671903745'
+      pop: ''
+      snippet: "whisky he threw on , ny skull , Sa 7 \u2018 "
+      type: rgn
+  lang_model: en_core_web_lg
+  page_filename: alto/107133958.34.xml
+  text_unit id: Page3
+  title: Two new songs viz
+- archive: /Users/rosafilgueira/EPCC/TDM/CDS/defoe-code/defoe/chapbooks-sample/104184106
+  edition: null
+  georesolution_page: {}
+  lang_model: en_core_web_lg
+  page_filename: alto/107133970.34.xml
+  text_unit id: Page4
+  title: Two new songs viz
+- archive: /Users/rosafilgueira/EPCC/TDM/CDS/defoe-code/defoe/chapbooks-sample/104184106
+  edition: null
+  georesolution_page: {}
+  lang_model: en_core_web_lg
+  page_filename: alto/107133982.34.xml
+  text_unit id: Page5
+  title: Two new songs viz
+- archive: /Users/rosafilgueira/EPCC/TDM/CDS/defoe-code/defoe/chapbooks-sample/104184106
+  edition: null
+  georesolution_page: {}
+  lang_model: en_core_web_lg
+  page_filename: alto/107133994.34.xml
+  text_unit id: Page6
+  title: Two new songs viz
+- archive: /Users/rosafilgueira/EPCC/TDM/CDS/defoe-code/defoe/chapbooks-sample/104184106
+  edition: null
+  georesolution_page:
+    kent-1:
+      in-cc: ''
+      lat: '51.19176341402492'
+      long: '0.7393632104701241'
+      pop: ''
+      snippet: "T\u2019was more than e\u2019er she kent , sir . The men "
+      type: civila
+  lang_model: en_core_web_lg
+  page_filename: alto/107134006.34.xml
+  text_unit id: Page7
+  title: Two new songs viz
+- archive: /Users/rosafilgueira/EPCC/TDM/CDS/defoe-code/defoe/chapbooks-sample/104184106
+  edition: null
+  georesolution_page: {}
+  lang_model: en_core_web_lg
+  page_filename: alto/107134018.34.xml
+  text_unit id: Page8
+  title: Two new songs viz
+1836:
+- archive: /Users/rosafilgueira/EPCC/TDM/CDS/defoe-code/defoe/chapbooks-sample/104184107
+  edition: null
+  georesolution_page: {}
+  lang_model: en_core_web_lg
+  page_filename: alto/107133790.34.xml
+  text_unit id: Page1
+  title: Report of the cattle show at Trearne
+- archive: /Users/rosafilgueira/EPCC/TDM/CDS/defoe-code/defoe/chapbooks-sample/104184107
+  edition: null
+  georesolution_page: {}
+  lang_model: en_core_web_lg
+  page_filename: alto/107133802.34.xml
+  text_unit id: Page2
+  title: Report of the cattle show at Trearne
+- archive: /Users/rosafilgueira/EPCC/TDM/CDS/defoe-code/defoe/chapbooks-sample/104184107
+  edition: null
+  georesolution_page:
+    Ayr-9:
+      in-cc: GB
+      lat: '55.47722903196907'
+      long: '-4.620181743975803'
+      pop: '45513'
+      snippet: 'Lochvvinnoch , and Counties of Ayr , and Renfrew , took '
+      type: ppl
+    Barrodger-15:
+      in-cc: ''
+      lat: '55.77377013280307'
+      long: '-4.624107982850719'
+      pop: ''
+      snippet: 'upwards , William Kerr in Barrodger . 2 . For the '
+      type: other
+    Beith-7:
+      in-cc: ''
+      lat: '55.75202814923489'
+      long: '-4.634946592072943'
+      pop: ''
+      snippet: 'lying in the Parishes of Beith , Dairy , and Lochvvinnoch '
+      type: ppl
+    Burnside-16:
+      in-cc: ''
+      lat: '55.37702103630628'
+      long: '-4.234696462726347'
+      pop: ''
+      snippet: 'stirk , John Wilson in Burnside . 4 . For the '
+      type: ppl
+    Counties-8:
+      in-cc: ''
+      lat: '52.08043552001634'
+      long: '-2.315147529935162'
+      pop: ''
+      snippet: ', and Lochvvinnoch , and Counties of Ayr , and Renfrew '
+      type: other
+    Gameshill-13:
+      in-cc: ''
+      lat: '55.70396342506352'
+      long: '-4.523917600868779'
+      pop: ''
+      snippet: 'Seabrae ; James Kirkwood in Gameshill ; Robert Craig in Ryesholm '
+      type: other
+    Hazlehead-5:
+      in-cc: ''
+      lat: '53.51881529104453'
+      long: '-1.707374300562006'
+      pop: ''
+      snippet: 'the Estates of Trearne , Hazlehead , Rough wood , Woodside '
+      type: ppl
+    Loanbehd-18:
+      in-cc: ''
+      lat: ''
+      long: ''
+      pop: ''
+      snippet: 'upwards , Hugh Robertson in Loanbehd . For the second best '
+      type: ''
+    Loanhead-17:
+      in-cc: ''
+      lat: '55.87717894182092'
+      long: '-3.160354333195023'
+      pop: ''
+      snippet: 'tenant , Flugh Robertson in Loanhead . 6 . For the '
+      type: ppl
+    Renfrew-10:
+      in-cc: GB
+      lat: '55.86810054473966'
+      long: '-4.406682480036368'
+      pop: '19894'
+      snippet: 'Counties of Ayr , and Renfrew , took place at Trearne '
+      type: ppl
+    Woodside-6:
+      in-cc: ''
+      lat: '57.57962825718649'
+      long: '-3.581955731041474'
+      pop: ''
+      snippet: 'Hazlehead , Rough wood , Woodside , and Drumbowie , lying '
+      type: ppl
+    the-1:
+      in-cc: ''
+      lat: '57.60215173897552'
+      long: '-3.24724328536901'
+      pop: ''
+      snippet: 'Proprietors to the Tenants on the Estates of Trearne , Hazlehead '
+      type: water
+  lang_model: en_core_web_lg
+  page_filename: alto/107133814.34.xml
+  text_unit id: Page3
+  title: Report of the cattle show at Trearne
+- archive: /Users/rosafilgueira/EPCC/TDM/CDS/defoe-code/defoe/chapbooks-sample/104184107
+  edition: null
+  georesolution_page:
+    Barcosh-7:
+      in-cc: ''
+      lat: '55.72820872163456'
+      long: '-4.652905125636533'
+      pop: ''
+      snippet: 'breed , John Patrick in Barcosh . 16 . For the '
+      type: other
+    Blaelochhead-6:
+      in-cc: ''
+      lat: '55.74818611038883'
+      long: '-4.558645296628114'
+      pop: ''
+      snippet: '. , John Watt in Blaelochhead . 15 . For the '
+      type: other
+    Borestone-1:
+      in-cc: ''
+      lat: '56.09204910864212'
+      long: '-3.938357186848178'
+      pop: ''
+      snippet: '. , Matthew Gilmore in Borestone . 9 . For the '
+      type: ppl
+    Borestone-3:
+      in-cc: ''
+      lat: '56.09204910864212'
+      long: '-3.938357186848178'
+      pop: ''
+      snippet: '. , Matthew Gilmore in Borestone . 12 . For the '
+      type: ppl
+    Coalburn-12:
+      in-cc: ''
+      lat: '55.59323317474484'
+      long: '-3.883793422295585'
+      pop: ''
+      snippet: ', Wm . Harvie in Coalburn . 22 . For the '
+      type: ppl
+    Drainage-15:
+      in-cc: ''
+      lat: '52.78750872067458'
+      long: '-0.2739445699986461'
+      pop: ''
+      snippet: "the meeting , regarding Furrow Drainage \u2014 recent Agricultural\
+        \ Improvements , "
+      type: fac
+    Furrow-14:
+      in-cc: ''
+      lat: '54.43541359248209'
+      long: '-2.348380274620478'
+      pop: ''
+      snippet: "of the meeting , regarding Furrow Drainage \u2014 recent Agricultural\
+        \ Improvements "
+      type: other
+    Park-5:
+      in-cc: ''
+      lat: '55.93119596636451'
+      long: '-4.173172251283392'
+      pop: ''
+      snippet: '. , James Miller in Park . 14 . For the '
+      type: water
+    Ward-13:
+      in-cc: ''
+      lat: '53.83246773491891'
+      long: '-2.556075093451364'
+      pop: ''
+      snippet: 'Colt , Thomas Galloway in Ward . 24 . For the '
+      type: ppl
+    Waterside-4:
+      in-cc: ''
+      lat: '55.93623791136963'
+      long: '-4.122696094884327'
+      pop: ''
+      snippet: 'Stirk , John Shedden in Waterside . 13 . For the '
+      type: ppl
+    Waterside-9:
+      in-cc: ''
+      lat: '55.93623791136963'
+      long: '-4.122696094884327'
+      pop: ''
+      snippet: '. , John Shedden in Waterside . 18 . For the '
+      type: ppl
+  lang_model: en_core_web_lg
+  page_filename: alto/107133826.34.xml
+  text_unit id: Page4
+  title: Report of the cattle show at Trearne
+- archive: /Users/rosafilgueira/EPCC/TDM/CDS/defoe-code/defoe/chapbooks-sample/104184107
+  edition: null
+  georesolution_page:
+    Scotland-1:
+      in-cc: GB
+      lat: '56.0000000'
+      long: '-4.0000000'
+      pop: '5000000'
+      snippet: 'is from this cause that Scotland , for instance , had '
+      type: civila
+  lang_model: en_core_web_lg
+  page_filename: alto/107133838.34.xml
+  text_unit id: Page5
+  title: Report of the cattle show at Trearne
+- archive: /Users/rosafilgueira/EPCC/TDM/CDS/defoe-code/defoe/chapbooks-sample/104184107
+  edition: null
+  georesolution_page:
+    England-5:
+      in-cc: GB
+      lat: '52.1604500'
+      long: '-0.7031200'
+      pop: '50000000'
+      snippet: ', than the yeomen of England and the peasantry of Scotland '
+      type: civila
+    Rome-4:
+      in-cc: IT
+      lat: '41.8919300'
+      long: '12.5113300'
+      pop: '2563241'
+      snippet: 'only were the armies of Rome formed and recruited from the '
+      type: pplc
+    Scotland-6:
+      in-cc: GB
+      lat: '56.0000000'
+      long: '-4.0000000'
+      pop: '5000000'
+      snippet: 'England and the peasantry of Scotland . As they promote the '
+      type: civila
+    earth-1:
+      in-cc: ''
+      lat: '54.15012298822696'
+      long: '-1.804958126858233'
+      pop: ''
+      snippet: 'Man deals in nothing but earth . The merchants are the '
+      type: civil
+    earth-2:
+      in-cc: ''
+      lat: '54.15012298822696'
+      long: '-1.804958126858233'
+      pop: ''
+      snippet: 'exchange one part of the earth for another . Agriculture is '
+      type: civil
+    earth-3:
+      in-cc: ''
+      lat: '54.15012298822696'
+      long: '-1.804958126858233'
+      pop: ''
+      snippet: 'assign the culture of the earth as the appropriate employment of '
+      type: civil
+    healthlul-7:
+      in-cc: ''
+      lat: ''
+      long: ''
+      pop: ''
+      snippet: ', is probably the most healthlul , both for body and '
+      type: ''
+  lang_model: en_core_web_lg
+  page_filename: alto/107133850.34.xml
+  text_unit id: Page6
+  title: Report of the cattle show at Trearne
+- archive: /Users/rosafilgueira/EPCC/TDM/CDS/defoe-code/defoe/chapbooks-sample/104184107
+  edition: null
+  georesolution_page:
+    Britain-2:
+      in-cc: ''
+      lat: '52.18862580436251'
+      long: '-1.833199368773203'
+      pop: ''
+      snippet: 'the greatest perfection . Great Britain , placed under a sky '
+      type: ppl
+    Great-1:
+      in-cc: ''
+      lat: '52.11639714470186'
+      long: '-2.315401274298906'
+      pop: ''
+      snippet: 'to the greatest perfection . Great Britain , placed under a '
+      type: ppl
+  lang_model: en_core_web_lg
+  page_filename: alto/107133862.34.xml
+  text_unit id: Page7
+  title: Report of the cattle show at Trearne
+- archive: /Users/rosafilgueira/EPCC/TDM/CDS/defoe-code/defoe/chapbooks-sample/104184107
+  edition: null
+  georesolution_page:
+    Ayrshire-2:
+      in-cc: ''
+      lat: '55.65775208460643'
+      long: '-4.949398764899728'
+      pop: ''
+      snippet: 'and industry first produced in Ayrshire what is now celebrated through '
+      type: civila
+    Ayrshire-7:
+      in-cc: ''
+      lat: '55.65775208460643'
+      long: '-4.949398764899728'
+      pop: ''
+      snippet: 'business of this part of Ayrshire , and has been the '
+      type: civila
+    Ireland-4:
+      in-cc: IE
+      lat: '53.0000000'
+      long: '-8.0000000'
+      pop: '4015676'
+      snippet: '. Barbara had gone to Ireland to avoid the religious persecution '
+      type: country
+    Scotland-3:
+      in-cc: GB
+      lat: '56.0000000'
+      long: '-4.0000000'
+      pop: '5000000'
+      snippet: 'is now celebrated through all Scotland by the name of Dunlop '
+      type: civila
+    Scotland-6:
+      in-cc: GB
+      lat: '56.0000000'
+      long: '-4.0000000'
+      pop: '5000000'
+      snippet: 'atrocity in the West of Scotland , under the last princes '
+      type: civila
+    West-5:
+      in-cc: ''
+      lat: '50.94373926408932'
+      long: '-0.4572084964930118'
+      pop: ''
+      snippet: 'with such atrocity in the West of Scotland , under the '
+      type: civila
+  lang_model: en_core_web_lg
+  page_filename: alto/107133874.34.xml
+  text_unit id: Page8
+  title: Report of the cattle show at Trearne
+- archive: /Users/rosafilgueira/EPCC/TDM/CDS/defoe-code/defoe/chapbooks-sample/104184107
+  edition: null
+  georesolution_page:
+    Ayrshire-2:
+      in-cc: ''
+      lat: '55.30060149534191'
+      long: '-4.760204612992591'
+      pop: ''
+      snippet: '. Not only has our Ayrshire cheese been widely celebrated and '
+      type: civila
+    Providence-1:
+      in-cc: ''
+      lat: '54.57828132861108'
+      long: '-3.587295513307295'
+      pop: ''
+      snippet: '. It is thus that Providence sometimes puts it in the '
+      type: water
+    kingdom-5:
+      in-cc: ''
+      lat: '53.1228613342961'
+      long: '-1.560638781334551'
+      pop: ''
+      snippet: 'every corner of the united kingdom , they have also been '
+      type: other
+    the-3:
+      in-cc: ''
+      lat: '51.92767826547293'
+      long: '-1.717825295479121'
+      pop: ''
+      snippet: 'introduced into every corner of the united kingdom , they have '
+      type: ppl
+    united-4:
+      in-cc: ''
+      lat: '50.23039920360144'
+      long: '-5.163175169672214'
+      pop: ''
+      snippet: 'into every corner of the united kingdom , they have also '
+      type: ppl
+  lang_model: en_core_web_lg
+  page_filename: alto/107133886.34.xml
+  text_unit id: Page9
+  title: Report of the cattle show at Trearne
+- archive: /Users/rosafilgueira/EPCC/TDM/CDS/defoe-code/defoe/chapbooks-sample/104184107
+  edition: null
+  georesolution_page: {}
+  lang_model: en_core_web_lg
+  page_filename: alto/107133898.34.xml
+  text_unit id: Page10
+  title: Report of the cattle show at Trearne
+- archive: /Users/rosafilgueira/EPCC/TDM/CDS/defoe-code/defoe/chapbooks-sample/104184107
+  edition: null
+  georesolution_page:
+    earth-1:
+      in-cc: ''
+      lat: '52.29749596526628'
+      long: '1.540380113202645'
+      pop: ''
+      snippet: 'from the bowels of the earth , to fetch divers tools '
+      type: rgn
+  lang_model: en_core_web_lg
+  page_filename: alto/107133910.34.xml
+  text_unit id: Page11
+  title: Report of the cattle show at Trearne
+- archive: /Users/rosafilgueira/EPCC/TDM/CDS/defoe-code/defoe/chapbooks-sample/104184107
+  edition: null
+  georesolution_page:
+    '|-2':
+      in-cc: ''
+      lat: ''
+      long: ''
+      pop: ''
+      snippet: 'weie ever so drunk , | with the great advantage of '
+      type: ''
+  lang_model: en_core_web_lg
+  page_filename: alto/107133922.34.xml
+  text_unit id: Page12
+  title: Report of the cattle show at Trearne
+1838:
+- archive: /Users/rosafilgueira/EPCC/TDM/CDS/defoe-code/defoe/chapbooks-sample/104184108
+  edition: null
+  georesolution_page: {}
+  lang_model: en_core_web_lg
+  page_filename: alto/107133646.34.xml
+  text_unit id: Page1
+  title: Laird of Ardenoaige and the Ghost of Fenhaglen
+- archive: /Users/rosafilgueira/EPCC/TDM/CDS/defoe-code/defoe/chapbooks-sample/104184108
+  edition: null
+  georesolution_page: {}
+  lang_model: en_core_web_lg
+  page_filename: alto/107133658.34.xml
+  text_unit id: Page2
+  title: Laird of Ardenoaige and the Ghost of Fenhaglen
+- archive: /Users/rosafilgueira/EPCC/TDM/CDS/defoe-code/defoe/chapbooks-sample/104184108
+  edition: null
+  georesolution_page:
+    Scotia-1:
+      in-cc: ''
+      lat: '53.21215738510953'
+      long: '-2.57795479429186'
+      pop: ''
+      snippet: "the grand point at which Scotia \u2019s sons aimed in these "
+      type: ppl
+  lang_model: en_core_web_lg
+  page_filename: alto/107133670.34.xml
+  text_unit id: Page3
+  title: Laird of Ardenoaige and the Ghost of Fenhaglen
+- archive: /Users/rosafilgueira/EPCC/TDM/CDS/defoe-code/defoe/chapbooks-sample/104184108
+  edition: null
+  georesolution_page:
+    Ardenoaigc-2:
+      in-cc: ''
+      lat: ''
+      long: ''
+      pop: ''
+      snippet: 'word , the whole of Ardenoaigc history dwelt in him . '
+      type: ''
+    Craggan-1:
+      in-cc: ''
+      lat: '58.17065327670469'
+      long: '-3.727131159036804'
+      pop: ''
+      snippet: 'of one Peter Fisher in Craggan , whom they commonly called '
+      type: water
+  lang_model: en_core_web_lg
+  page_filename: alto/107133682.34.xml
+  text_unit id: Page4
+  title: Laird of Ardenoaige and the Ghost of Fenhaglen
+- archive: /Users/rosafilgueira/EPCC/TDM/CDS/defoe-code/defoe/chapbooks-sample/104184108
+  edition: null
+  georesolution_page: {}
+  lang_model: en_core_web_lg
+  page_filename: alto/107133694.34.xml
+  text_unit id: Page5
+  title: Laird of Ardenoaige and the Ghost of Fenhaglen
+- archive: /Users/rosafilgueira/EPCC/TDM/CDS/defoe-code/defoe/chapbooks-sample/104184108
+  edition: null
+  georesolution_page:
+    Scotland-4:
+      in-cc: GB
+      lat: '56.0000000'
+      long: '-4.0000000'
+      pop: '5000000'
+      snippet: 'of the disturbance in which Scotland was in- '
+      type: civila
+    earth-1:
+      in-cc: ''
+      lat: '53.64442971425371'
+      long: '-2.372076667259686'
+      pop: ''
+      snippet: 'secret crime committed while on earth . To this mysterious appearance '
+      type: fac
+  lang_model: en_core_web_lg
+  page_filename: alto/107133706.34.xml
+  text_unit id: Page6
+  title: Laird of Ardenoaige and the Ghost of Fenhaglen
+- archive: /Users/rosafilgueira/EPCC/TDM/CDS/defoe-code/defoe/chapbooks-sample/104184108
+  edition: null
+  georesolution_page:
+    reprooss-2:
+      in-cc: ''
+      lat: ''
+      long: ''
+      pop: ''
+      snippet: 'put up with such insulting reprooss , and being unaccustomed ! '
+      type: ''
+  lang_model: en_core_web_lg
+  page_filename: alto/107133718.34.xml
+  text_unit id: Page7
+  title: Laird of Ardenoaige and the Ghost of Fenhaglen
+- archive: /Users/rosafilgueira/EPCC/TDM/CDS/defoe-code/defoe/chapbooks-sample/104184108
+  edition: null
+  georesolution_page:
+    Almond-2:
+      in-cc: ''
+      lat: '55.96510930746418'
+      long: '-3.355536753263602'
+      pop: ''
+      snippet: 'the green lofty mountains of Almond , when Colin left his '
+      type: civil
+  lang_model: en_core_web_lg
+  page_filename: alto/107133730.34.xml
+  text_unit id: Page8
+  title: Laird of Ardenoaige and the Ghost of Fenhaglen
+- archive: /Users/rosafilgueira/EPCC/TDM/CDS/defoe-code/defoe/chapbooks-sample/104184108
+  edition: null
+  georesolution_page:
+    Tomodhar-3:
+      in-cc: ''
+      lat: ''
+      long: ''
+      pop: ''
+      snippet: 'in Ardenoaige , called the Tomodhar , when Colin came to '
+      type: ''
+  lang_model: en_core_web_lg
+  page_filename: alto/107133742.34.xml
+  text_unit id: Page9
+  title: Laird of Ardenoaige and the Ghost of Fenhaglen
+- archive: /Users/rosafilgueira/EPCC/TDM/CDS/defoe-code/defoe/chapbooks-sample/104184108
+  edition: null
+  georesolution_page:
+    Fenhaglen-3:
+      in-cc: ''
+      lat: ''
+      long: ''
+      pop: ''
+      snippet: 'mantle o''er the sides of Fenhaglen as they went along . '
+      type: ''
+    Lawers-2:
+      in-cc: ''
+      lat: '56.52879056673533'
+      long: '-4.155735730393503'
+      pop: ''
+      snippet: 'walking on the shores of Lawers , viewing the ever busy '
+      type: ppl
+  lang_model: en_core_web_lg
+  page_filename: alto/107133754.34.xml
+  text_unit id: Page10
+  title: Laird of Ardenoaige and the Ghost of Fenhaglen
+- archive: /Users/rosafilgueira/EPCC/TDM/CDS/defoe-code/defoe/chapbooks-sample/104184108
+  edition: null
+  georesolution_page:
+    earth-1:
+      in-cc: ''
+      lat: '52.29749596526628'
+      long: '1.540380113202645'
+      pop: ''
+      snippet: 'to return to molest the earth till my known guilt would '
+      type: rgn
+  lang_model: en_core_web_lg
+  page_filename: alto/107133766.34.xml
+  text_unit id: Page11
+  title: Laird of Ardenoaige and the Ghost of Fenhaglen
+- archive: /Users/rosafilgueira/EPCC/TDM/CDS/defoe-code/defoe/chapbooks-sample/104184108
+  edition: null
+  georesolution_page:
+    Fenhaglen-2:
+      in-cc: ''
+      lat: ''
+      long: ''
+      pop: ''
+      snippet: 'while building a hut in Fenhaglen . The same of the '
+      type: ''
+  lang_model: en_core_web_lg
+  page_filename: alto/107133778.34.xml
+  text_unit id: Page12
+  title: Laird of Ardenoaige and the Ghost of Fenhaglen
