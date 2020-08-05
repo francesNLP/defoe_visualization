@@ -1,0 +1,380 @@
+1996:
+- - epidemic
+  - 62
+- - flu
+  - 42
+- - sars
+  - 1
+- - footandmouth
+  - 3
+- - influenza
+  - 14
+- - pandemic
+  - 2
+- - mad cow disease
+  - 287
+- - spanish flu
+  - 3
+- - pneumonia
+  - 10
+- - bovine spongiform encephalopathy
+  - 17
+- - bse
+  - 777
+1997:
+- - influenza
+  - 9
+- - flu
+  - 66
+- - bse
+  - 441
+- - mad cow disease
+  - 97
+- - epidemic
+  - 52
+- - pneumonia
+  - 12
+- - bovine spongiform encephalopathy
+  - 4
+1998:
+- - mad cow disease
+  - 76
+- - bse
+  - 319
+- - pandemic
+  - 1
+- - epidemic
+  - 53
+- - flu
+  - 76
+- - swine flu
+  - 1
+- - pneumonia
+  - 22
+- - sars
+  - 2
+- - influenza
+  - 9
+- - bird flu
+  - 1
+- - asian flu
+  - 2
+- - bovine spongiform encephalopathy
+  - 5
+1999:
+- - pneumonia
+  - 14
+- - mad cow disease
+  - 44
+- - flu
+  - 88
+- - sars
+  - 7
+- - bse
+  - 344
+- - influenza
+  - 10
+- - asian flu
+  - 3
+- - london flu
+  - 1
+- - spanish flu
+  - 3
+- - epidemic
+  - 46
+- - pandemic
+  - 3
+- - bovine spongiform encephalopathy
+  - 3
+- - footandmouth
+  - 1
+2000:
+- - sars
+  - 2
+- - flu
+  - 100
+- - influenza
+  - 10
+- - asian flu
+  - 1
+- - mad cow disease
+  - 66
+- - bse
+  - 365
+- - spanish flu
+  - 1
+- - bovine spongiform encephalopathy
+  - 9
+- - pneumonia
+  - 20
+- - epidemic
+  - 63
+- - pandemic
+  - 3
+2001:
+- - epidemic
+  - 110
+- - mad cow disease
+  - 63
+- - flu
+  - 58
+- - pneumonia
+  - 16
+- - bovine spongiform encephalopathy
+  - 3
+- - pandemic
+  - 5
+- - footandmouth
+  - 326
+- - bse
+  - 412
+- - sars
+  - 4
+- - influenza
+  - 5
+2002:
+- - avian flu
+  - 1
+- - flu
+  - 61
+- - footandmouth
+  - 86
+- - h3n2
+  - 1
+- - epidemic
+  - 80
+- - sars
+  - 8
+- - mad cow disease
+  - 34
+- - pandemic
+  - 3
+- - influenza
+  - 7
+- - pneumonia
+  - 21
+- - h1n1
+  - 1
+- - bovine spongiform encephalopathy
+  - 1
+- - bse
+  - 230
+2003:
+- - footandmouth
+  - 28
+- - pneumonia
+  - 30
+- - bovine spongiform encephalopathy
+  - 5
+- - pandemic
+  - 7
+- - bse
+  - 180
+- - severe acute respiratory syndrome
+  - 13
+- - influenza
+  - 11
+- - flu
+  - 69
+- - epidemic
+  - 82
+- - sars
+  - 106
+- - mad cow disease
+  - 41
+2004:
+- - avian flu
+  - 5
+- - epidemic
+  - 82
+- - pneumonia
+  - 21
+- - pandemic
+  - 3
+- - bovine spongiform encephalopathy
+  - 1
+- - footandmouth
+  - 20
+- - severe acute respiratory syndrome
+  - 3
+- - spanish flu
+  - 1
+- - mad cow disease
+  - 31
+- - sars
+  - 37
+- - bird flu
+  - 4
+- - influenza
+  - 9
+- - bse
+  - 112
+- - flu
+  - 58
+2005:
+- - spanish flu
+  - 6
+- - pandemic
+  - 20
+- - hong kong flu
+  - 1
+- - h5n1
+  - 13
+- - mad cow disease
+  - 29
+- - asian flu
+  - 2
+- - epidemic
+  - 48
+- - pneumonia
+  - 16
+- - flu
+  - 84
+- - bovine spongiform encephalopathy
+  - 4
+- - bse
+  - 78
+- - influenza
+  - 13
+- - sars
+  - 10
+- - swine flu
+  - 1
+- - footandmouth
+  - 24
+- - bird flu
+  - 24
+- - avian flu
+  - 21
+2006:
+- - h3n2
+  - 1
+- - avian flu
+  - 11
+- - mad cow disease
+  - 22
+- - epidemic
+  - 44
+- - flu
+  - 77
+- - footandmouth
+  - 11
+- - h2n2
+  - 1
+- - bovine spongiform encephalopathy
+  - 4
+- - sars
+  - 11
+- - h5n1
+  - 16
+- - pneumonia
+  - 20
+- - bse
+  - 66
+- - h1n1
+  - 1
+- - influenza
+  - 10
+- - spanish flu
+  - 5
+- - pandemic
+  - 20
+- - bird flu
+  - 32
+- - severe acute respiratory syndrome
+  - 1
+2007:
+- - sars
+  - 6
+- - bse
+  - 49
+- - avian flu
+  - 13
+- - pneumonia
+  - 20
+- - flu
+  - 74
+- - bird flu
+  - 19
+- - severe acute respiratory syndrome
+  - 1
+- - footandmouth
+  - 21
+- - mad cow disease
+  - 15
+- - epidemic
+  - 52
+- - bovine spongiform encephalopathy
+  - 1
+- - spanish flu
+  - 2
+- - pandemic
+  - 18
+- - influenza
+  - 11
+- - h5n1
+  - 6
+2008:
+- - mad cow disease
+  - 11
+- - footandmouth
+  - 6
+- - epidemic
+  - 55
+- - pandemic
+  - 9
+- - bse
+  - 43
+- - bird flu
+  - 5
+- - spanish flu
+  - 7
+- - h5n1
+  - 3
+- - pneumonia
+  - 22
+- - flu
+  - 61
+- - influenza
+  - 3
+- - sars
+  - 8
+- - avian flu
+  - 3
+2009:
+- - swine flu
+  - 68
+- - avian flu
+  - 1
+- - h1n1
+  - 5
+- - bse
+  - 32
+- - sars
+  - 11
+- - flu
+  - 101
+- - influenza
+  - 15
+- - spanish flu
+  - 4
+- - epidemic
+  - 52
+- - footandmouth
+  - 5
+- - pneumonia
+  - 18
+- - bird flu
+  - 5
+- - severe acute respiratory syndrome
+  - 1
+- - hong kong flu
+  - 1
+- - asian flu
+  - 1
+- - h5n1
+  - 1
+- - mad cow disease
+  - 15
+- - pandemic
+  - 33
